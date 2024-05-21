@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1624330663 source:c:\d\2020\c++作业\surakarta\sur.cpp
+	"sur.h"
+
+1624323509 c:\d\2020\c++作业\surakarta\sur.h
+	<iostream>
+	<vector>
+	<fstream>
+	<winbgim.h>
+	<stack>
+	<time.h>
+
+1266058214 c:\d\c语言程序设计\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1624336513 source:c:\d\2020\c++作业\surakarta\surakarta.cpp
+	"sur.h"
+
+1624336288 source:c:\d\2020\c++作业\surakarta\hash.cpp
+	"hash.h"
+
+1624324135 c:\d\2020\c++作业\surakarta\hash.h
+	"sur.h"
+
+1624581081 source:c:\d\2020\c++\surakarta\hash.cpp
+	"hash.h"
+
+1625466888 c:\d\2020\c++\surakarta\hash.h
+	<iostream>
+	<vector>
+	<fstream>
+	<winbgim.h>
+	<stack>
+	<time.h>
+	<Commdlg.h>
+	<cstdio>
+
+1637981788 c:\d\2020\c++\surakarta\sur.h
+	"hash.h"
+
+1637993995 source:c:\d\2020\c++\surakarta\sur.cpp
+	"sur.h"
+	<algorithm>
+
+1714114495 source:c:\d\2020\c++\surakarta\surakarta.cpp
+	"sur.h"
+
